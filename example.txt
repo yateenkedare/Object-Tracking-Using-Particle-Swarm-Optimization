@@ -1,0 +1,1 @@
+i,position[i].x,position[i].y,position[i].width,position[i].height,velocityX[i],velocityY[i],fitness,g_best_pos,l_best_x[i],l_best_y[i],g_best_x,g_best_y,x+w,y+h
